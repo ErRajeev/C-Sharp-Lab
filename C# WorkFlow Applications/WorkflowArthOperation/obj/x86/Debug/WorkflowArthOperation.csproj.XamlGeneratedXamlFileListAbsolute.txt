@@ -1,0 +1,4 @@
+obj\x86\Debug\Workflow1.g.xaml
+obj\x86\Debug\Workflow2.g.xaml
+obj\x86\Debug\WorkflowArthOperation_Workflow1_BeforeInitializeComponentHelper.txt
+obj\x86\Debug\WorkflowArthOperation_Workflow2_BeforeInitializeComponentHelper.txt

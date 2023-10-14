@@ -1,0 +1,48 @@
+S:\Languages\C#\WorkflowArthOperation\bin\Debug\WorkflowArthOperation.exe.config
+S:\Languages\C#\WorkflowArthOperation\bin\Debug\WorkflowArthOperation.exe
+S:\Languages\C#\WorkflowArthOperation\bin\Debug\WorkflowArthOperation.pdb
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.AssemblyReference.cache
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\Workflow1.g.xaml
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow1_BeforeInitializeComponentHelper.txt
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\_WorkflowArthOperation.g.cs
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\Workflow1.g.cs
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow1_BeforeInitializeComponentHelper.cs
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.XamlGeneratedCodeFileListAbsolute.txt
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.XamlGeneratedXamlFileListAbsolute.txt
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.XamlPass2Flag.txt
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.dll
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.pdb
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow1_CompiledExpressionRoot.cs
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.CoreCompileInputs.cache
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.exe
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.FileListAbsolute.txt
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\Workflow2.g.xaml
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow2_BeforeInitializeComponentHelper.txt
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\Workflow2.g.cs
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow2_BeforeInitializeComponentHelper.cs
+S:\Languages\C#\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow2_CompiledExpressionRoot.cs
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\bin\Debug\WorkflowArthOperation.exe.config
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\bin\Debug\WorkflowArthOperation.exe
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\bin\Debug\WorkflowArthOperation.pdb
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.AssemblyReference.cache
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\Workflow1.g.xaml
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\Workflow2.g.xaml
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow1_BeforeInitializeComponentHelper.txt
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow2_BeforeInitializeComponentHelper.txt
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\_WorkflowArthOperation.g.cs
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\Workflow1.g.cs
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\Workflow2.g.cs
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow1_BeforeInitializeComponentHelper.cs
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow2_BeforeInitializeComponentHelper.cs
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.XamlGeneratedCodeFileListAbsolute.txt
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.XamlGeneratedXamlFileListAbsolute.txt
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.FileListAbsolute.txt
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.XamlPass2Flag.txt
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.dll
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.pdb
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow1_CompiledExpressionRoot.cs
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation_Workflow2_CompiledExpressionRoot.cs
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.csproj.CoreCompileInputs.cache
+S:\Languages\C#\C# WorkFlow Applications\WorkflowArthOperation\obj\x86\Debug\WorkflowArthOperation.exe

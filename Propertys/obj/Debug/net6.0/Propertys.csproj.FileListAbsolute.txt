@@ -1,0 +1,14 @@
+S:\Languages\C#\Propertys\bin\Debug\net6.0\Propertys.exe
+S:\Languages\C#\Propertys\bin\Debug\net6.0\Propertys.deps.json
+S:\Languages\C#\Propertys\bin\Debug\net6.0\Propertys.runtimeconfig.json
+S:\Languages\C#\Propertys\bin\Debug\net6.0\Propertys.dll
+S:\Languages\C#\Propertys\bin\Debug\net6.0\Propertys.pdb
+S:\Languages\C#\Propertys\obj\Debug\net6.0\Propertys.GeneratedMSBuildEditorConfig.editorconfig
+S:\Languages\C#\Propertys\obj\Debug\net6.0\Propertys.AssemblyInfoInputs.cache
+S:\Languages\C#\Propertys\obj\Debug\net6.0\Propertys.AssemblyInfo.cs
+S:\Languages\C#\Propertys\obj\Debug\net6.0\Propertys.csproj.CoreCompileInputs.cache
+S:\Languages\C#\Propertys\obj\Debug\net6.0\Propertys.dll
+S:\Languages\C#\Propertys\obj\Debug\net6.0\refint\Propertys.dll
+S:\Languages\C#\Propertys\obj\Debug\net6.0\Propertys.pdb
+S:\Languages\C#\Propertys\obj\Debug\net6.0\Propertys.genruntimeconfig.cache
+S:\Languages\C#\Propertys\obj\Debug\net6.0\ref\Propertys.dll

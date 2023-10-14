@@ -1,0 +1,14 @@
+S:\Languages\C#\ListCollection\bin\Debug\net6.0\ListCollection.exe
+S:\Languages\C#\ListCollection\bin\Debug\net6.0\ListCollection.deps.json
+S:\Languages\C#\ListCollection\bin\Debug\net6.0\ListCollection.runtimeconfig.json
+S:\Languages\C#\ListCollection\bin\Debug\net6.0\ListCollection.dll
+S:\Languages\C#\ListCollection\bin\Debug\net6.0\ListCollection.pdb
+S:\Languages\C#\ListCollection\obj\Debug\net6.0\ListCollection.GeneratedMSBuildEditorConfig.editorconfig
+S:\Languages\C#\ListCollection\obj\Debug\net6.0\ListCollection.AssemblyInfoInputs.cache
+S:\Languages\C#\ListCollection\obj\Debug\net6.0\ListCollection.AssemblyInfo.cs
+S:\Languages\C#\ListCollection\obj\Debug\net6.0\ListCollection.csproj.CoreCompileInputs.cache
+S:\Languages\C#\ListCollection\obj\Debug\net6.0\ListCollection.dll
+S:\Languages\C#\ListCollection\obj\Debug\net6.0\refint\ListCollection.dll
+S:\Languages\C#\ListCollection\obj\Debug\net6.0\ListCollection.pdb
+S:\Languages\C#\ListCollection\obj\Debug\net6.0\ListCollection.genruntimeconfig.cache
+S:\Languages\C#\ListCollection\obj\Debug\net6.0\ref\ListCollection.dll

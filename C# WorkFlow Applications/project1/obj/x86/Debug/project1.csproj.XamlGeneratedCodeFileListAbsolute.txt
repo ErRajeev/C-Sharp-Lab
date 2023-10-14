@@ -1,0 +1,4 @@
+obj\x86\Debug\_project1.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\project1_Workflow1_BeforeInitializeComponentHelper.cs
+S:\Languages\C#\project1\obj\x86\Debug\project1_Workflow1_CompiledExpressionRoot.cs

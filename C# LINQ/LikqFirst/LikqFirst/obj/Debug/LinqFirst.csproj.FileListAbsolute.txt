@@ -1,0 +1,7 @@
+S:\Languages\C#\C# LINQ\LikqFirst\LikqFirst\bin\Debug\LikqFirst.exe.config
+S:\Languages\C#\C# LINQ\LikqFirst\LikqFirst\bin\Debug\LikqFirst.exe
+S:\Languages\C#\C# LINQ\LikqFirst\LikqFirst\bin\Debug\LikqFirst.pdb
+S:\Languages\C#\C# LINQ\LikqFirst\LikqFirst\obj\Debug\LinqFirst.csproj.AssemblyReference.cache
+S:\Languages\C#\C# LINQ\LikqFirst\LikqFirst\obj\Debug\LinqFirst.csproj.CoreCompileInputs.cache
+S:\Languages\C#\C# LINQ\LikqFirst\LikqFirst\obj\Debug\LikqFirst.exe
+S:\Languages\C#\C# LINQ\LikqFirst\LikqFirst\obj\Debug\LikqFirst.pdb

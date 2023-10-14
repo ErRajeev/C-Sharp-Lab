@@ -1,0 +1,14 @@
+S:\Languages\C#\MultDeligets\bin\Debug\net6.0\MultDeligets.exe
+S:\Languages\C#\MultDeligets\bin\Debug\net6.0\MultDeligets.deps.json
+S:\Languages\C#\MultDeligets\bin\Debug\net6.0\MultDeligets.runtimeconfig.json
+S:\Languages\C#\MultDeligets\bin\Debug\net6.0\MultDeligets.dll
+S:\Languages\C#\MultDeligets\bin\Debug\net6.0\MultDeligets.pdb
+S:\Languages\C#\MultDeligets\obj\Debug\net6.0\MultDeligets.GeneratedMSBuildEditorConfig.editorconfig
+S:\Languages\C#\MultDeligets\obj\Debug\net6.0\MultDeligets.AssemblyInfoInputs.cache
+S:\Languages\C#\MultDeligets\obj\Debug\net6.0\MultDeligets.AssemblyInfo.cs
+S:\Languages\C#\MultDeligets\obj\Debug\net6.0\MultDeligets.csproj.CoreCompileInputs.cache
+S:\Languages\C#\MultDeligets\obj\Debug\net6.0\MultDeligets.dll
+S:\Languages\C#\MultDeligets\obj\Debug\net6.0\refint\MultDeligets.dll
+S:\Languages\C#\MultDeligets\obj\Debug\net6.0\MultDeligets.pdb
+S:\Languages\C#\MultDeligets\obj\Debug\net6.0\MultDeligets.genruntimeconfig.cache
+S:\Languages\C#\MultDeligets\obj\Debug\net6.0\ref\MultDeligets.dll

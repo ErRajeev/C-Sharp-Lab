@@ -1,0 +1,14 @@
+S:\Languages\C#\Indexer\bin\Debug\net6.0\Indexer.exe
+S:\Languages\C#\Indexer\bin\Debug\net6.0\Indexer.deps.json
+S:\Languages\C#\Indexer\bin\Debug\net6.0\Indexer.runtimeconfig.json
+S:\Languages\C#\Indexer\bin\Debug\net6.0\Indexer.dll
+S:\Languages\C#\Indexer\bin\Debug\net6.0\Indexer.pdb
+S:\Languages\C#\Indexer\obj\Debug\net6.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+S:\Languages\C#\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfoInputs.cache
+S:\Languages\C#\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfo.cs
+S:\Languages\C#\Indexer\obj\Debug\net6.0\Indexer.csproj.CoreCompileInputs.cache
+S:\Languages\C#\Indexer\obj\Debug\net6.0\Indexer.dll
+S:\Languages\C#\Indexer\obj\Debug\net6.0\refint\Indexer.dll
+S:\Languages\C#\Indexer\obj\Debug\net6.0\Indexer.pdb
+S:\Languages\C#\Indexer\obj\Debug\net6.0\Indexer.genruntimeconfig.cache
+S:\Languages\C#\Indexer\obj\Debug\net6.0\ref\Indexer.dll

@@ -1,0 +1,14 @@
+S:\Languages\C#\Deligets\bin\Debug\net6.0\Deligets.exe
+S:\Languages\C#\Deligets\bin\Debug\net6.0\Deligets.deps.json
+S:\Languages\C#\Deligets\bin\Debug\net6.0\Deligets.runtimeconfig.json
+S:\Languages\C#\Deligets\bin\Debug\net6.0\Deligets.dll
+S:\Languages\C#\Deligets\bin\Debug\net6.0\Deligets.pdb
+S:\Languages\C#\Deligets\obj\Debug\net6.0\Deligets.GeneratedMSBuildEditorConfig.editorconfig
+S:\Languages\C#\Deligets\obj\Debug\net6.0\Deligets.AssemblyInfoInputs.cache
+S:\Languages\C#\Deligets\obj\Debug\net6.0\Deligets.AssemblyInfo.cs
+S:\Languages\C#\Deligets\obj\Debug\net6.0\Deligets.csproj.CoreCompileInputs.cache
+S:\Languages\C#\Deligets\obj\Debug\net6.0\Deligets.dll
+S:\Languages\C#\Deligets\obj\Debug\net6.0\refint\Deligets.dll
+S:\Languages\C#\Deligets\obj\Debug\net6.0\Deligets.pdb
+S:\Languages\C#\Deligets\obj\Debug\net6.0\Deligets.genruntimeconfig.cache
+S:\Languages\C#\Deligets\obj\Debug\net6.0\ref\Deligets.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow1", "Workflow1.csproj", "{12D41ABB-4F44-4F98-BFF4-05A4C079F9B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D41ABB-4F44-4F98-BFF4-05A4C079F9B2}.Debug|x86.ActiveCfg = Debug|x86
+		{12D41ABB-4F44-4F98-BFF4-05A4C079F9B2}.Debug|x86.Build.0 = Debug|x86
+		{12D41ABB-4F44-4F98-BFF4-05A4C079F9B2}.Release|x86.ActiveCfg = Release|x86
+		{12D41ABB-4F44-4F98-BFF4-05A4C079F9B2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {337A31B3-CF3B-456F-A009-1EC4DE3BF55A}
+	EndGlobalSection
+EndGlobal

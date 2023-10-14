@@ -1,0 +1,14 @@
+S:\Languages\C#\Binding\bin\Debug\net6.0\Binding.exe
+S:\Languages\C#\Binding\bin\Debug\net6.0\Binding.deps.json
+S:\Languages\C#\Binding\bin\Debug\net6.0\Binding.runtimeconfig.json
+S:\Languages\C#\Binding\bin\Debug\net6.0\Binding.dll
+S:\Languages\C#\Binding\bin\Debug\net6.0\Binding.pdb
+S:\Languages\C#\Binding\obj\Debug\net6.0\Binding.GeneratedMSBuildEditorConfig.editorconfig
+S:\Languages\C#\Binding\obj\Debug\net6.0\Binding.AssemblyInfoInputs.cache
+S:\Languages\C#\Binding\obj\Debug\net6.0\Binding.AssemblyInfo.cs
+S:\Languages\C#\Binding\obj\Debug\net6.0\Binding.csproj.CoreCompileInputs.cache
+S:\Languages\C#\Binding\obj\Debug\net6.0\Binding.dll
+S:\Languages\C#\Binding\obj\Debug\net6.0\refint\Binding.dll
+S:\Languages\C#\Binding\obj\Debug\net6.0\Binding.pdb
+S:\Languages\C#\Binding\obj\Debug\net6.0\Binding.genruntimeconfig.cache
+S:\Languages\C#\Binding\obj\Debug\net6.0\ref\Binding.dll
