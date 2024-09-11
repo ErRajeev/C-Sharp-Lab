@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pYI8y1Pi+O7oUeZeo1nyVs1wUa6PJTFstVMBlmJgwYCLpC6EQOPLAJ9EBYSjqCv4tWs4MFF/aHNKXIgPsnkrcA==",
+  "dgSpecHash": "zGBGWto5h3ribg1Pp1BfmtM4dEK1vCk9Sf6kInIRJHhcZnvh1WIi/MKrpkDtWLhNGN+KjyaDexBsxGpWsXg/uQ==",
   "success": true,
-  "projectFilePath": "S:\\Languages\\C#\\Lambda\\Lambda.csproj",
+  "projectFilePath": "S:\\Languages\\C#\\Lambda\\Lambda\\Lambda.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,5 @@
-﻿class Program
+﻿using System;
+class Program
 {
     public static void Main(string[] args)
     {
@@ -7,11 +8,12 @@
             int sum = 0;
             foreach (var value in values)
                 sum += value;
-              
+
             return sum;
         };
         int[] sequence = { 1, 2, 3, 4, 5 };
         int total = sum(sequence);
         Console.WriteLine(total);
+        Console.ReadKey();
     }
 }

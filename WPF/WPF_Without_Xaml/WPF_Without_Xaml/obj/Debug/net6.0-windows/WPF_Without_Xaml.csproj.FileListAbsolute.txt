@@ -1,0 +1,4 @@
+S:\Languages\C#\WPF\WPF_Without_Xaml\WPF_Without_Xaml\obj\Debug\net6.0-windows\MainWindow.g.cs
+S:\Languages\C#\WPF\WPF_Without_Xaml\WPF_Without_Xaml\obj\Debug\net6.0-windows\App.g.cs
+S:\Languages\C#\WPF\WPF_Without_Xaml\WPF_Without_Xaml\obj\Debug\net6.0-windows\WPF_Without_Xaml_MarkupCompile.cache
+S:\Languages\C#\WPF\WPF_Without_Xaml\WPF_Without_Xaml\obj\Debug\net6.0-windows\WPF_Without_Xaml_MarkupCompile.lref

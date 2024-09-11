@@ -3,24 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CRUD Operation", ".", "{AB05C5EE-FF99-4304-8014-E237F4D2DF87}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CRUD Operation", ".", "{7F1A386C-5CF5-4B89-9E63-229FF58847B1}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_50465"
-		Debug.AspNetCompiler.PhysicalPath = "S:\Languages\C#\CRUD Operation\"
+		Debug.AspNetCompiler.PhysicalPath = "..\CRUD Operation\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50465\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_50465"
-		Release.AspNetCompiler.PhysicalPath = "S:\Languages\C#\CRUD Operation\"
+		Release.AspNetCompiler.PhysicalPath = "..\CRUD Operation\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50465\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "50465"
+		SlnRelativePath = "..\CRUD Operation\"
 	EndProjectSection
 EndProject
 Global
@@ -28,8 +29,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AB05C5EE-FF99-4304-8014-E237F4D2DF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB05C5EE-FF99-4304-8014-E237F4D2DF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1A386C-5CF5-4B89-9E63-229FF58847B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1A386C-5CF5-4B89-9E63-229FF58847B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

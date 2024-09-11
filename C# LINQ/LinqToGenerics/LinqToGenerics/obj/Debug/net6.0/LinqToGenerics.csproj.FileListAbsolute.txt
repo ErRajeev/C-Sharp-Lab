@@ -1,0 +1,14 @@
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\bin\Debug\net6.0\LinqToGenerics.exe
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\bin\Debug\net6.0\LinqToGenerics.deps.json
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\bin\Debug\net6.0\LinqToGenerics.runtimeconfig.json
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\bin\Debug\net6.0\LinqToGenerics.dll
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\bin\Debug\net6.0\LinqToGenerics.pdb
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\obj\Debug\net6.0\LinqToGenerics.GeneratedMSBuildEditorConfig.editorconfig
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\obj\Debug\net6.0\LinqToGenerics.AssemblyInfoInputs.cache
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\obj\Debug\net6.0\LinqToGenerics.AssemblyInfo.cs
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\obj\Debug\net6.0\LinqToGenerics.csproj.CoreCompileInputs.cache
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\obj\Debug\net6.0\LinqToGenerics.dll
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\obj\Debug\net6.0\refint\LinqToGenerics.dll
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\obj\Debug\net6.0\LinqToGenerics.pdb
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\obj\Debug\net6.0\LinqToGenerics.genruntimeconfig.cache
+S:\Languages\C#\C# LINQ\LinqToGenerics\LinqToGenerics\obj\Debug\net6.0\ref\LinqToGenerics.dll

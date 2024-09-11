@@ -8,7 +8,14 @@ using System.Web.UI.WebControls;
 
 public partial class _Default : System.Web.UI.Page
 {
-    string conString = @"Data Source=PIKACHU\SQLSERVER;Initial Catalog=Rajeev;Integrated Security=True";
+    string conString;
+    protected override void OnInit(EventArgs e)
+    {
+        base.OnInit(e);
+        Response.Write("Hello there..!!");
+        conString = @"Data Source=PIKACHU;Initial Catalog=rajeev;Integrated Security=True;Encrypt=False";
+    }
+
     protected void Page_Load(object sender, EventArgs e)
     {
         if (!IsPostBack)
@@ -23,7 +30,6 @@ public partial class _Default : System.Web.UI.Page
         GridView1.EditIndex = e.NewEditIndex;
         GridView1.DataSource = SqlDataSource1;
         GridView1.DataBind();
-
     }
 
     protected void GridView1_RowCancelingEdit(object sender, GridViewCancelEditEventArgs e)
@@ -95,6 +101,11 @@ public partial class _Default : System.Web.UI.Page
             GridView1.DataSource = SqlDataSource1;
             GridView1.DataBind();
         }
+
+    }
+
+    protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+    {
 
     }
 }

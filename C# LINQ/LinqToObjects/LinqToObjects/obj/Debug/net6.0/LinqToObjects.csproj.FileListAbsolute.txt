@@ -1,0 +1,14 @@
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\obj\Debug\net6.0\LinqToObjects.GeneratedMSBuildEditorConfig.editorconfig
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\obj\Debug\net6.0\LinqToObjects.AssemblyInfoInputs.cache
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\obj\Debug\net6.0\LinqToObjects.AssemblyInfo.cs
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\obj\Debug\net6.0\LinqToObjects.csproj.CoreCompileInputs.cache
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\bin\Debug\net6.0\LinqToObjects.exe
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\bin\Debug\net6.0\LinqToObjects.deps.json
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\bin\Debug\net6.0\LinqToObjects.runtimeconfig.json
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\bin\Debug\net6.0\LinqToObjects.dll
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\bin\Debug\net6.0\LinqToObjects.pdb
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\obj\Debug\net6.0\LinqToObjects.dll
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\obj\Debug\net6.0\refint\LinqToObjects.dll
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\obj\Debug\net6.0\LinqToObjects.pdb
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\obj\Debug\net6.0\LinqToObjects.genruntimeconfig.cache
+S:\Languages\C#\C# LINQ\LinqToObjects\LinqToObjects\obj\Debug\net6.0\ref\LinqToObjects.dll

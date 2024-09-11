@@ -6,7 +6,7 @@ public partial class _Default : System.Web.UI.Page
     protected void Page_Load(object sender, EventArgs e)
     {
         List<Student> list = new List<Student>();
-        string connStr = @"Data Source=PIKACHU\SQLSERVER;Initial Catalog=Rajeev;Integrated Security=True";
+        string connStr = @"Data Source=PIKACHU;Initial Catalog=rajeev;Integrated Security=True;Encrypt=False";
         try
         {
             using (SqlConnection con = new SqlConnection(connStr))
@@ -26,7 +26,9 @@ public partial class _Default : System.Web.UI.Page
             }
             GridView1.DataSource = list;
             GridView1.DataBind();
-        }catch (Exception ex) { }
+        }catch (Exception ex) {
+            //ex.StackTrace
+        }
     }
 }
 

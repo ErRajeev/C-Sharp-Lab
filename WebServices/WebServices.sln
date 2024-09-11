@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServices", "WebServices\WebServices.csproj", "{0FE63DE4-214F-4E1E-ACDB-8A54C93D9723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE63DE4-214F-4E1E-ACDB-8A54C93D9723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE63DE4-214F-4E1E-ACDB-8A54C93D9723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE63DE4-214F-4E1E-ACDB-8A54C93D9723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE63DE4-214F-4E1E-ACDB-8A54C93D9723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E05721F-1FB6-4160-A337-D0C986C4F538}
+	EndGlobalSection
+EndGlobal

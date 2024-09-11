@@ -1,10 +1,11 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" Trace
+    ="true"%>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>CURD Operations</title>
 </head>
 <body>
     <h1>Employee Details</h1>
@@ -73,7 +74,7 @@
                 <SortedDescendingHeaderStyle BackColor="#575357" />
             </asp:GridView>
         </div>
-        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:RajeevConnectionString %>" ProviderName="<%$ ConnectionStrings:RajeevConnectionString.ProviderName %>" SelectCommand="SELECT * FROM [Employee]"></asp:SqlDataSource>
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" ProviderName="<%$ ConnectionStrings:ConnectionString.ProviderName %>" SelectCommand="SELECT * FROM [employee]"></asp:SqlDataSource>
     </form>
 </body>
 </html>
